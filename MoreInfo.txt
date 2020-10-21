@@ -1,0 +1,20 @@
+Make a GitHub account
+
+clone : https://github.com/CantrellG/GroceryList
+
+Create a repository of your own
+
+Clone that repository
+
+Copy the files over from my repository to your repository
+
+At the top of "List" add your name and class
+
+Commit this change to your repository
+
+Send me the public link of your repository
+
+
+
+
+
